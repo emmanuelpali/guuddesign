@@ -1,0 +1,21 @@
+.container {
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.socials {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.img__container {
+    width: 15px;
+    height: 15px;
+    display: flex;
+    align-items: center;
+    opacity: 0.7;
+    cursor: pointer;
+}
